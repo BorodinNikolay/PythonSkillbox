@@ -1,2 +1,2 @@
 print("Hello")
-print(type("str"))
+print(123)
